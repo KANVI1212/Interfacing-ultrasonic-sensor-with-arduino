@@ -1,6 +1,3 @@
-//sketch created by Akshay Joseph
-//follow me on Instagram five_volt_player
-
 #define echoPin 2
 #define trigPin 3
 
